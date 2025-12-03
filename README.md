@@ -7,7 +7,7 @@
  > **About me?**
  
 - 👀 Interested in exploring daily interaction technologies.
-- 🌱 Currently, I am learning MERN Stack.
+- 🌱 Currently, I am learning about the wonders of AI/ML world.
 - 💞️ And now a days working on a tech blog called [```vhald's tech blog```](https://vhald.hashnode.dev/).
 - 🧾 My some other blogs are [```[DEV Community Profile]```](https://dev.to/xoxics)
 - 📫 Its not hard to find me. just [search](https://linkedin.com/in/vhald) my name and i'll summon before you 😬.</p>
