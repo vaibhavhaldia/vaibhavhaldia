@@ -77,7 +77,7 @@ Software Engineer with **4+ years of experience** building scalable applications
 
 ---
 
-## 🏗️ What I've Been Building (IIT Roorkee — Production Projects)
+## 🏗️ What I've Been Building (E2E Production Projects)
 
 | # | Project | Stack |
 |---|---------|-------|
