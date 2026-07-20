@@ -1,4 +1,5 @@
 ## Hi, I'm Vaibhav Haldia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
+
 <p align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=28&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=650&height=60&lines=Hey+there!+I'm+Vaibhav+Haldia+👋;Full-Stack+AI+Engineer;React+Native+%7C+Python+%7C+LLM+Engineering;MLOps+%7C+Computer+Vision+%7C+FastAPI;Building+Production-Ready+AI+Systems" alt="Vaibhav Haldia" />
@@ -6,6 +7,7 @@
 </p>
 
 ---
+
 [![Gmail Badge](https://img.shields.io/badge/-haldia.vaibhav@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:haldia.vaibhav@gmail.com)](mailto:haldia.vaibhav@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vhald-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhald/)](https://www.linkedin.com/in/vhald/)
 [![Github Badge](https://img.shields.io/badge/-vaibhavhaldia-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vaibhavhaldia)](https://github.com/vaibhavhaldia)
@@ -13,9 +15,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://vaibhavhaldia.github.io/portfolio-next/)](https://vaibhavhaldia.github.io/portfolio-next/)
 [![Blog Badge](https://img.shields.io/badge/blog-hashnode-2962FF?style=flat&logo=hashnode&logoColor=white&link=https://vhald.hashnode.dev)](https://vhald.hashnode.dev)
 
-[![@vhald's Holopin board](https://holopin.io/api/user/board?user=vhald)](https://holopin.io/@vhald)
 
----
 
 ### About me
 
