@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=28&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=650&height=60&lines=Hey+there!+I'm+Vaibhav+Haldia+👋;Full-Stack+AI+Engineer;React+Native+%7C+Python+%7C+LLM+Engineering;MLOps+%7C+Computer+Vision+%7C+FastAPI;Building+Production-Ready+AI+Systems" alt="Vaibhav Haldia" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=28&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=650&height=60&lines=Hey+there!+I'm+Vaibhav+Haldia;Full-Stack+AI+Engineer;React+Native+%7C+Python+%7C+LLM+Engineering;MLOps+%7C+Computer+Vision+%7C+FastAPI;Building+Production-Ready+AI+Systems" alt="Vaibhav Haldia" />
   </a>
 </p>
 
